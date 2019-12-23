@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="3b6d7b61-4d59-41fd-891b-5f3284703b6d" name="Default Changelist" comment="commit first">
       <change afterPath="$PROJECT_DIR$/src/components/FinishedQuiz/FinishedQuiz.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/FinishedQuiz/FinishedQuiz.module.sass" afterDir="false" />
@@ -23,6 +24,9 @@
       <change beforePath="$PROJECT_DIR$/src/containers/Quiz/Quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Quiz/Quiz.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" afterDir="false" />
     </list>
+=======
+    <list default="true" id="3b6d7b61-4d59-41fd-891b-5f3284703b6d" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,9 +103,21 @@
       <option name="presentableId" value="Default" />
       <updated>1576759075624</updated>
       <workItem from="1576759077194" duration="8924000" />
+<<<<<<< Updated upstream
       <workItem from="1576768196803" duration="9541000" />
       <workItem from="1576873211889" duration="27865000" />
+=======
+      <workItem from="1576768196803" duration="9760000" />
+>>>>>>> Stashed changes
     </task>
+    <task id="LOCAL-00001" summary="commit first">
+      <created>1576784889823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576784889823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
