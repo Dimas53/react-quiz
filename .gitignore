@@ -24,4 +24,6 @@ yarn-debug.log*
 yarn-error.log*
 
 #web storm
-.idea
+/.idea
+/.idea/workspace.xml
+/.idea/libraries
